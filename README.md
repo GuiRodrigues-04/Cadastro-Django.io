@@ -10,7 +10,8 @@ Este é um projeto simples de cadastro de usuários feito com Django, onde é po
 - Django
 - HTML + Bootstrap
 
-## Como rodar
+## Como rodar!
+
 ```bash
 git clone https://github.com/seu-usuario/seu-projeto.git
 cd seu-projeto
@@ -18,3 +19,5 @@ python .\manage.py makemigrations
 python .\manage.py migrate  (Cria o banco de dados onde irá salvar os arquivos)
 python manage.py runserver
 
+![Pg-cadastro](https://github.com/user-attachments/assets/7967c06d-ab19-42de-bfc7-99bccb7cfdef)
+![banco de dados](https://github.com/user-attachments/assets/05c1f324-8358-4fcf-b749-e5ae35af5d96)
